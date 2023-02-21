@@ -1,11 +1,11 @@
 {
     "manifest_version": 1,
     "name": "Black Ops Zombies",
-    "description": "Nostalga.",
+    "description": "Nostalga From Back In The Day.",
     "version": "1",
     "icons":
     {
-        "512": "icon_512.png"
+        "logo": "BOZ_logo.png"
     },
     "developer":
     {
@@ -18,11 +18,7 @@
         {
             "background_music":
             [
-                "music/Boss_Theme_-_layer-001.mp3",
-                "music/Boss_Theme_-_layer-002.mp3",
-                "music/Boss_Theme_-_layer-003.mp3",
-                "music/Boss_Theme_-_layer-004.mp3",
-                "music/Boss_Theme_-_layer-005.mp3"
+                "BOZ_Soundtrack.mp3"
             ]
         }
     }
