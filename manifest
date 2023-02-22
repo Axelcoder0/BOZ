@@ -1,8 +1,8 @@
 {
-    "manifest_version": 1,
+    "manifest_version": 2,
     "name": "Black Ops Zombies",
     "description": "Nostalgia From Back In The Day.",
-    ""manifest_version": 2"
+    "version": "1",
     "icons":
     {
         "logo": "BOZ_logo.png"
