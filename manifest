@@ -5,7 +5,7 @@
     "version": "1",
     "icons":
     {
-        "logo": "BOZ_logo.png"
+        "512": "icon_512.png"
     },
     "developer":
     {
